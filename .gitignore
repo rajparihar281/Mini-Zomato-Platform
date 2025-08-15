@@ -1,0 +1,25 @@
+# Flutter and Dart-specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.vs_cache/
+pubspec.lock
+
+# Build-related folders to ignore in all subdirectories
+**/build/
+**/android/
+**/ios/
+**/linux/
+**/macos/
+**/windows/
+**/web/
+
+# IDE files
+.idea/
+.vscode/
+
+# Project-specific files to ignore
+*.apk
+*.aab
+*.ipa
